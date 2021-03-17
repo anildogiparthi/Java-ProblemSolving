@@ -1,8 +1,4 @@
-/*
- * Copyright (C) 2017 by Teradata Corporation.
- * All Rights Reserved.
- * TERADATA CORPORATION CONFIDENTIAL AND TRADE SECRET
- */
+
 package com.mywork.arrays;
 
 import java.io.*;
